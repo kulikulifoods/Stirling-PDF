@@ -1,0 +1,3 @@
+FROM stirlingtools/stirling-pdf:latest
+
+COPY custom_settings.yml /configs/custom_settings.yml
